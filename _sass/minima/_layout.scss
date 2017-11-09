@@ -200,11 +200,11 @@
     color: $grey-color;
   }
   
-  .post-link {
+  .post-link {   
+    color: $text-color; 
     display: block;
     @include relative-font-size(1.5);
-
-    &,
+   
     &:hover {
       color: $post-hover;
       text-decoration: none;
