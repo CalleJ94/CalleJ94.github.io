@@ -189,20 +189,35 @@
   .post-list {
     margin-left: 0;
     list-style: none;
+    
   
     > li {
       margin-bottom: $spacing-unit;
+      background-color: $header-color;
+      border-radius: 10px;
+      border: 1px solid $grey-color-dark;
+
+       .post-margin {
+         margin-left: $spacing-unit;
+       }  
     }
   }
   
+  .post-text {
+    font-style: italic;
+    font-size: $small-font-size;
+    color: $grey-color;
+    line-height: 1.2;
+  }
   .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
   }
   
+
   .post-link {   
     color: $text-color; 
-    display: block;
+    display: inline;
     @include relative-font-size(1.5);
    
     &:hover {

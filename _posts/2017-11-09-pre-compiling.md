@@ -4,6 +4,7 @@ title:  "Pre-compiling!"
 date:   2017-11-09 09:45:30 +0100
 categories: jekyll update
 comments: true
+beskrivning: Här skriver jag lite om pre-compiling.
 ---
 
 * **What do you think of pre-compiling your CSS?**

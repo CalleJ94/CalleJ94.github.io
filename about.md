@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My name is Calle Johansson and I'm a student at linneuniveristet there I studing my first year on Utveckling och drift av mjukvarusystem(Development and opertation of software systems) and this site is a project in that program. I'm 23 years old and live in Kalmar were I am also born, on my free time when i'm not styding I like to go to gym that is a big hobby in my life and im also a big fan of video games. 
+Mitt namn är Calle Johansson är jag är en student på linneuniveristet där jag läser mitt första år på utbildningen Utveckling och drift av mjukvarusystem och denna webbplats är ett project i kurs som heter Klientbaserad webbprogrammering. Jag är 23 år gammal och bor i Kalmar där jag också född. På min fritid när jag inte behöver studera så tycker jag om att gå till gymmmet som är ett väldigt stort intresse för mig och videospel har alltid varit ett intresse för mig sedan jag var liten.
