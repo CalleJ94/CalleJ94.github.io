@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My name is Calle Johansson and I'm a student at linneuniveristet there I studing my first year on Utveckling och drift av mjukvarusystem(Development and opertation of software systems) and this site is a project in that program. I'm 23 years old and live in Kalmar were I am also born, on my free time when i'm not styding I like to go to gym that is a big hobby in my life and im also a big fan of video games. 
