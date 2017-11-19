@@ -8,13 +8,13 @@ beskrivning: Här går jag igenom lite om vad en robort.txt är för något och 
 ---
 
 * **What is robots.txt and how have you configure it for your site?**  
-robots.txt is used to give web robots instructions, in my robots.txt so have I put in:  
+Robots.txt används för att ge web robotar instruktioner, i min robots.txt så la jag in:  
   *User-agent:* *  
   *Disallow:* /  
   *User-agent: Googlebot*  
   *Allow:* /  
-  This means that all robots is disallow exept for Googlebot, so if Yahoos robot Slurp want to go in to my site, it will first go to robots.txt and see that it don't have access to the site. 
+  Detta gör att alla web robotorn inte har tillträde förutom Googlebot, så om Yahoos robot Slurp skulle vilja gå in på sidan så får den inte det. 
 
 * **What is humans.txt and how have you configure it for your site?**  
-  The humans.txt is used to let people know who is behind the website, in my txt file have I put in my name and were im from.
+  Humans.txt används för att tala om vem som har skapat webbsidan, är ungefär samma sak som eftertexterna på en film, i min humans så la jag till mitt namn och vart jag är ifrån.
   
